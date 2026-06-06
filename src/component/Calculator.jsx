@@ -27,7 +27,7 @@ const Calculator = () => {
 
   return (
     <div className="w-screen h-screen">
-      <div className="w-full  mr-10 mt-10 border-2">
+      <div className="w-full mr-10 mt-10 border-2">
         <div className="">
           <InputField inputValue={inputValue} />
           <hr />
